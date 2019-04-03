@@ -1,0 +1,12 @@
+.Counter {
+    border: 1px solid darkblue;
+    padding: 30px;
+    width: 300px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+    }
+    .Counter span.value {
+    margin-left: 10px;
+    color:rgb(18, 30, 207);
+    }
